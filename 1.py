@@ -4,3 +4,4 @@ def y(x):
 print(y(1))
 print(y(10))
 print(y(1000))
+
