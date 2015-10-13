@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import math
+
 r=input()
 def f(x):
     return eval(r)
